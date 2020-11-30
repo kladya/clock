@@ -9,4 +9,3 @@ const getTimeNow = dateNow => {
 };
 
 setInterval(getTimeNow, 1000);
-
